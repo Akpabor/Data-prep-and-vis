@@ -1419,7 +1419,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "2b150fa0",
    "metadata": {},
    "outputs": [],
@@ -1427,7 +1427,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "8f9e8718",
    "metadata": {},
    "outputs": [],
