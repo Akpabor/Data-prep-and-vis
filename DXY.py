@@ -1373,7 +1373,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": none,
    "id": "90a9f97d",
    "metadata": {},
    "outputs": [],
@@ -1387,7 +1387,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "1131663e",
    "metadata": {},
    "outputs": [],
@@ -1395,7 +1395,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "6bf9d3fd",
    "metadata": {},
    "outputs": [],
@@ -1403,7 +1403,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "532a5f97",
    "metadata": {},
    "outputs": [],
@@ -1411,7 +1411,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "23e81ef7",
    "metadata": {},
    "outputs": [],
@@ -1419,7 +1419,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "2b150fa0",
    "metadata": {},
    "outputs": [],
@@ -1427,7 +1427,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "8f9e8718",
    "metadata": {},
    "outputs": [],
@@ -1435,7 +1435,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "9277e91f",
    "metadata": {},
    "outputs": [],
@@ -1443,7 +1443,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "bde10fdf",
    "metadata": {},
    "outputs": [],
@@ -1451,7 +1451,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "3c300194",
    "metadata": {},
    "outputs": [],
@@ -1459,7 +1459,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "5ca4d8bc",
    "metadata": {},
    "outputs": [],
@@ -1467,7 +1467,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "4e791dc3",
    "metadata": {},
    "outputs": [],
@@ -1475,7 +1475,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "57a407fb",
    "metadata": {},
    "outputs": [],
@@ -1483,7 +1483,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": null,
    "id": "61fc7def",
    "metadata": {},
    "outputs": [],
